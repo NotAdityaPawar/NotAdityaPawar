@@ -3,6 +3,8 @@
 I am 19 year developer based in India!
 
 [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaPawar2019)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaPawar2019)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <h2>Where to find me</h2>
