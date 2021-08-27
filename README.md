@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 I am 19 year developer based in India!
-- Tech Lover
-- Currently doing some python!
+- 🔭 I’m currently doing some python!
+- 🌱 I’m currently learning WebTech
 
 [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaPawar2019)](https://github.com/anuraghazra/github-readme-stats)
 <br>
