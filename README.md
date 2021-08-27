@@ -19,6 +19,8 @@ I am 19 year developer based in India!
 [![GitHub logo](/assets/github.svg)](https://github.com/AdityaPawar2019)
 [![LinkedIn logo](/assets/linkedin.svg)](https://www.linkedin.com/in/notaditya/)
 [![Twitter logo](/assets/twitter.svg)](https://twitter.com/NotAdityaPawar)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdityaPawar2019&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **AdityaPawar2019/AdityaPawar2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
