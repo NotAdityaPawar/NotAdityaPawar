@@ -4,7 +4,7 @@ I am 19 year developer based in India!
 
 <h2>Where to find me</h2>
 
-![GitHub logo](/assets/github.svg)("https://github.com/AdityaPawar2019")
+[![GitHub logo]("https://github.com/AdityaPawar2019")](/assets/github.svg)
 
 <!--
 **AdityaPawar2019/AdityaPawar2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
