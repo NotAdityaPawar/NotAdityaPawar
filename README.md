@@ -8,7 +8,7 @@ I am 19 year developer based in India!
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaPawar2019)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaPawar2019)](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaPawar2019)
 
 
 <br>
