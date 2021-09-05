@@ -4,11 +4,11 @@ I am 19 year developer based in India!
 - 🔭 I’m currently doing some python!
 - 🌱 I’m currently learning WebTech
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaPawar2019)
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotAdityaPawar)
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaPawar2019)](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaPawar2019)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotAdityaPawar)](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaPawar2019)
 
 
 <br>
@@ -20,7 +20,7 @@ I am 19 year developer based in India!
 
 <h2>Where to find me</h2>
 
-[![GitHub logo](/assets/github.svg)](https://github.com/AdityaPawar2019)
+[![GitHub logo](/assets/github.svg)](https://github.com/NotAdityaPawar)
 [![LinkedIn logo](/assets/linkedin.svg)](https://www.linkedin.com/in/notaditya/)
 [![Twitter logo](/assets/twitter.svg)](https://twitter.com/NotAdityaPawar)
 
