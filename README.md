@@ -23,6 +23,7 @@ I am 20 year developer based in India!
 [![GitHub logo](/assets/github.svg)](https://github.com/NotAdityaPawar)
 [![LinkedIn logo](/assets/linkedin.svg)](https://www.linkedin.com/in/notaditya/)
 [![Twitter logo](/assets/twitter.svg)](https://twitter.com/NotAdityaPawar)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=NotAdityaPawar.NotAdityaPawar)
 
 
 
