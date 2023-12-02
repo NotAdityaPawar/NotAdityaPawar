@@ -5,7 +5,7 @@ I am 22 year developer based in India!
 - 🌱 I’m currently learning WebTech
 
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotAdityaPawar)
-
+<!--
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotAdityaPawar)](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaPawar2019)
@@ -15,7 +15,7 @@ I am 22 year developer based in India!
 
 [![Aditya's wakatime stats](https://wakatime.com/share/@NotAdityaPawar/993e8105-24a9-4659-9a21-96004a3b924e.png)](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaPawar2019)
 
-
+-->
 
 
 <h2>Where to find me</h2>
