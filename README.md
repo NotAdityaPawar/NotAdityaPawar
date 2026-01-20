@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am 22 year developer based in India!
+I am developer based in India!
 - 🔭 I’m currently doing some python!
 - 🌱 I’m currently learning WebTech
 
